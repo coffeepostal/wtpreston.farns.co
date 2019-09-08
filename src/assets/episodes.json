@@ -1,0 +1,27 @@
+{
+    "episode1": {
+        "id": 1,
+        "title": "Oh Captain, My Captain",
+        "track": "677823180"
+    },
+    "episode2": {
+        "id": 2,
+        "title": "Torpedoing Police Boats",
+        "track": "677823171"
+    },
+    "episode3": {
+        "id": 3,
+        "title": "Taking On Water Through The Windows",
+        "track": "677823165"
+    },
+    "episode4": {
+        "id": 4,
+        "title": "Lamb Curry And Sleeping In The Dishwasher",
+        "track": "677823147"
+    },
+    "episode5": {
+        "id": 5,
+        "title": "Thrown Into The Deep End",
+        "track": "677823138"
+    }
+}
