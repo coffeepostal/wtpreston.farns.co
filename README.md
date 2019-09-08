@@ -1,29 +1,14 @@
-# wtpreston.farns.co
+# Adventures on the W. T. Preston Landing Page
 
-## Project setup
-```
-npm install
-```
+## What is this?
+This is the repo for the landing page for the "Adventures on the W. T. Preston" podcast: [Adventures on the W. T. Preston](https://wtpreston.farns.co)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Steps to Run
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Run `npm i` to install node_modules
+2. Run `npm run start` to launch development environment
+3. Run `npm run build` to build project for deployment
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Dev Todo
+- [ ] Add working transitions for title and background SVGs
+- [ ] Find a better solution for audio hosting
