@@ -1,7 +1,7 @@
 # Adventures on the W. T. Preston Landing Page
 
 ## What is this?
-This is the repo for the landing page for the "Adventures on the W. T. Preston" podcast: [Adventures on the W. T. Preston](https://wtpreston.farns.co)
+This is the repo for the website for the "Adventures on the W. T. Preston" podcast: [Adventures on the W. T. Preston](https://wtpreston.farns.co)
 
 ## Steps to Run
 
